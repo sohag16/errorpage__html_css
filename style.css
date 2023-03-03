@@ -1,0 +1,50 @@
+.first{
+    height: 200px;
+    width: 100%;
+
+}
+.body{
+    text-align: center;
+}
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+}
+.btn{
+    background-color: beige;
+    color: gray;
+    font-size: larger;
+
+
+}
+span.one {
+    color: pink;
+    height: 220px;
+    font-size: 180px;
+    font-family: "Catamaran", sans-serif;
+    font-weight: 800;
+    margin: 20px 15px;
+   
+}
+span.two{
+    color: bisque;
+    font-size: 180px;
+    font-family: "Catamaran", sans-serif;
+    font-weight: 800;
+    margin: 20px 15px;
+    
+}
+span.three{
+    color: pink;
+    font-size: 180px;
+    font-family: "Catamaran", sans-serif;
+    font-weight: 800;
+    margin: 20px 15px;
+   
+}
+.error{
+    font-size: 80px;
+    margin: 20px 15px;
+    font-weight: 200;
+    display: inline;
+    color: brown;
+}
